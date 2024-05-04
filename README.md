@@ -80,6 +80,14 @@ El proyecto React requiere un enfoque estandarizado para garantizar la coherenci
 >
 > Faltaria saber que se usara en el Backend
 
+## Primeras ideas base
+
+- uso de java
+- uso de spring-boot
+- uso de maven o gradle
+- uso de swagger integrado a spring-boot [tutorial You Tube](https://youtu.be/-SzKqwgPTyk)
+- uso de ORM sugerencias ... JOOQ [Baeldung](https://www.baeldung.com/jooq-intro)
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
