@@ -82,7 +82,7 @@ El proyecto React requiere un enfoque estandarizado para garantizar la coherenci
 
 ## Primeras ideas base
 
-- uso de java
+- uso de java y sus librerias de Maven
 - uso de spring-boot
 - uso de maven o gradle
 - uso de swagger integrado a spring-boot [tutorial You Tube](https://youtu.be/-SzKqwgPTyk)
